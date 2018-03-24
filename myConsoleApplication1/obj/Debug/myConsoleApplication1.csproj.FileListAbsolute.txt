@@ -1,0 +1,16 @@
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\bin\Debug\myConsoleApplication1.exe.config
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\bin\Debug\myConsoleApplication1.exe
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\bin\Debug\myConsoleApplication1.pdb
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\bin\Debug\DnsClient.dll
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\bin\Debug\MongoDB.Bson.dll
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\bin\Debug\MongoDB.Driver.dll
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\bin\Debug\System.Buffers.dll
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\bin\Debug\DnsClient.xml
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\bin\Debug\MongoDB.Bson.xml
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\bin\Debug\MongoDB.Driver.xml
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\obj\Debug\myConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\obj\Debug\myConsoleApplication1.exe
+C:\Users\Kalyan\Documents\Visual Studio 2013\Projects\myConsoleApplication1\myConsoleApplication1\obj\Debug\myConsoleApplication1.pdb
